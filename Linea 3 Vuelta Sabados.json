@@ -20,8 +20,6 @@
     "nombre": "Paredon",
     "horas": [
         "10:40",
-
-
         "20:00"
     ],
     "coordenada": "39.94961,-4.83511"
@@ -29,8 +27,6 @@
     "nombre": "Cruce Navalmorales",
     "horas": [
         "10:42",
-
-
         "20:02"
     ],
     "coordenada": "39.95001,-4.83066"
@@ -212,7 +208,7 @@
 
         "17:51"
     ],
-    "coordenada": "39.97182/ -4.81316"
+    "coordenada": "39.97182, -4.81316"
 }, {
     "nombre": "Ctra. San Román",
     "horas": [
